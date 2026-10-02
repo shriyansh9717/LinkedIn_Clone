@@ -1,0 +1,16 @@
+/*
+ package.json me script me jake "dev" wala kaam karna hai 
+.env me port likhane ke baad app npm i dotenv karna hai 
+Models banane ke baad hum authentication karna hai too ->  npm i jsonwebtoken bcryptjs cookie-parser kr lo 
+user create karne ke baad token create hoga to jwt import kr dena 
+jwt.sign harame id ke liye ek token asign karega 
+{ userId } likhne ka matlab hai: token ke andar userId naam ki information store karo. JWT ko kuch data dena hota hai. Ye data object ke form me diya jata hai.
+
+
+
+
+
+
+
+
+*/
